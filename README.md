@@ -32,4 +32,5 @@ El programa guarda las gráficas en la carpeta `graficas`.
 La FFT trabaja con muestras finitas. En señales no periódicas, como el escalón, el espectro observado depende de la duración de la ventana y del muestreo.
 
 ## Autor
-[Escribe tu nombre]
+uriel cordoba 
+
